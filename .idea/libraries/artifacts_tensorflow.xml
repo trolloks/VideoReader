@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:tensorflow">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow.aar/3f0c6924cc31743c352862ff8943e339/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tensorflow.aar/3f0c6924cc31743c352862ff8943e339/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
